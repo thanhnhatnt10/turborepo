@@ -26,8 +26,8 @@ var React__namespace = /*#__PURE__*/_interopNamespace(React);
 
 var Button = function (_a) {
     var color = _a.color;
-    return React__namespace.createElement("button", { className: "text-yellow-600 bg-gray-500" },
-        "Boop ", "".concat(color));
+    return (React__namespace.createElement("button", { className: 'text-yellow-600 bg-gray-500' },
+        "Boop ", "".concat(color)));
 };
 
 exports.Button = Button;
